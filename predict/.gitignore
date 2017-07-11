@@ -1,0 +1,66 @@
+# Prerequisites
+predict/*.d
+
+# Compiled Object files
+predict/*.slo
+predict/*.lo
+predict/*.o
+predict/*.obj
+
+# Precompiled Headers
+predict/*.gch
+predict/*.pch
+
+# Compiled Dynamic libraries
+predict/*.so
+predict/*.dylib
+predict/*.dll
+
+# Fortran module files
+predict/*.mod
+predict/*.smod
+
+# Compiled Static libraries
+predict/*.lai
+predict/*.la
+predict/*.a
+predict/*.lib
+
+# Executables
+predict/*.exe
+predict/*.out
+predict/*.app
+
+
+# Prerequisites
+*.d
+
+# Compiled Object files
+*.slo
+*.lo
+*.o
+*.obj
+
+# Precompiled Headers
+*.gch
+*.pch
+
+# Compiled Dynamic libraries
+*.so
+*.dylib
+*.dll
+
+# Fortran module files
+*.mod
+*.smod
+
+# Compiled Static libraries
+*.lai
+*.la
+*.a
+*.lib
+
+# Executables
+*.exe
+*.out
+*.app
